@@ -83,12 +83,22 @@
 
 <br/>
 
-<!-- ===== GITHUB STATS ===== -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ===== WHAT I BRING ===== -->
+<h2 align="center">💡 What I Bring</h2>
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahc1987&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="33%">
+  <br/>🏗️<br/><b>Scalable Architecture</b><br/><sub>Designing maintainable<br/>full-stack systems</sub><br/><br/>
+</td>
+<td align="center" width="33%">
+  <br/>⚡<br/><b>End-to-End Delivery</b><br/><sub>From UI to database<br/>to deployment</sub><br/><br/>
+</td>
+<td align="center" width="33%">
+  <br/>☁️<br/><b>Cloud & DevOps</b><br/><sub>AWS, GCP, Docker<br/>and CI/CD pipelines</sub><br/><br/>
+</td>
+</tr>
+</table>
 
 <br/>
 
