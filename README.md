@@ -12,6 +12,7 @@
 
 - 💼 **Full Stack Developer** with 6+ years of professional experience
 - 🏭 Background in **Layer Industries** and **Communications** sectors
+- 📍 Based in **Miami, FL**
 - 🌱 Currently expanding my cloud skills with **AWS** and **Google Cloud**
 - 👯 Open to collaborating on challenging and innovative projects
 - 🔍 **Actively looking for new opportunities**
@@ -30,6 +31,7 @@
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -68,6 +70,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/saul-hernandez-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sahc1987"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sahc1987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
