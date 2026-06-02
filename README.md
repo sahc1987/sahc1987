@@ -84,15 +84,10 @@
 <br/>
 
 <!-- ===== GITHUB STATS ===== -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahc1987&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00C9A7&icon_color=0077B5&text_color=ffffff" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahc1987&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=ffffff" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahc1987&theme=react&hide_border=true&background=0D1117&ring=00C9A7&fire=0077B5&currStreakLabel=00C9A7" alt="streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahc1987&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
 </p>
 
 <br/>
