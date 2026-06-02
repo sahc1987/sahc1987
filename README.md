@@ -1,80 +1,105 @@
-<h1 align="center">Hi there, I'm Saul Hernandez 👋</h1>
+<!-- ===== HEADER ===== -->
+<a href="https://github.com/sahc1987">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Saul%20Hernandez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%206%2B%20Years%20of%20Experience&descAlignY=58&descSize=18" alt="header" />
+</a>
 
 <p align="center">
-  <b>Full Stack Developer | 6+ Years of Experience</b><br/>
-  Passionate about building scalable web applications across the full stack.<br/>
-  Open to new opportunities in the Layer, Industries & Communications sectors and beyond.
-</p>
-
----
-
-## 🚀 About Me
-
-- 💼 **Full Stack Developer** with 6+ years of professional experience
-- 🏭 Background in **Layer Industries** and **Communications** sectors
-- 📍 Based in **Miami, FL**
-- 🌱 Currently expanding my cloud skills with **AWS** and **Google Cloud**
-- 👯 Open to collaborating on challenging and innovative projects
-- 🔍 **Actively looking for new opportunities**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![JSF](https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahc1987&show_icons=true&theme=dark&hide_border=true" alt="Saul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahc1987&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
   <a href="https://www.linkedin.com/in/saul-hernandez-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/sahc1987"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:sahc1987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Miami,%20FL-FF5A5F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahc1987&label=Profile%20Views&color=0077B5&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-43853D?style=flat&logo=checkmarx&logoColor=white" alt="open to work" />
+</p>
 
+<br/>
+
+<!-- ===== ABOUT ===== -->
+<table align="center">
+<tr><td>
+
+### 👨‍💻 About Me
+
+- 💼 **Full Stack Developer** with **6+ years** of professional experience
+- 🏭 Background in the **Layer Industries** and **Communications** sectors
+- 📍 Based in **Miami, FL**
+- 🌱 Currently expanding my cloud expertise with **AWS** & **Google Cloud**
+- 🤝 Open to collaborating on challenging and innovative projects
+- 🚀 **Actively looking for new opportunities**
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- ===== TECH STACK ===== -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+</p>
+
+<p align="center"><b>DevOps & Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- ===== GITHUB STATS ===== -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahc1987&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00C9A7&icon_color=0077B5&text_color=ffffff" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahc1987&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00C9A7&text_color=ffffff" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahc1987&theme=react&hide_border=true&background=0D1117&ring=00C9A7&fire=0077B5&currStreakLabel=00C9A7" alt="streak" />
+</p>
+
+<br/>
+
+<!-- ===== FOOTER ===== -->
 <p align="center">
   <i>"Clean code, scalable systems, and continuous learning."</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B5&height=120&section=footer" alt="footer" />
