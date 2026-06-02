@@ -24,7 +24,7 @@
 ### 👨‍💻 About Me
 
 - 💼 **Full Stack Developer** with **6+ years** of professional experience
-- 🏭 Background in the **Layer Industries** and **Communications** sectors
+- 🏭 Background in the **Lawyer Industries** and **Communications** sectors
 - 📍 Based in **Miami, FL**
 - 🌱 Currently expanding my cloud expertise with **AWS** & **Google Cloud**
 - 🤝 Open to collaborating on challenging and innovative projects
