@@ -118,11 +118,12 @@ Full-stack quiz platform (React/Redux Toolkit + Node/Express/PostgreSQL) with an
 </p>
 
 #### 🛒 <a href="https://github.com/sahc1987/Ecommerce">Ecommerce</a>
-Full-stack e-commerce app (React + Node/Express) with Redis-backed sessions and Cloudinary image uploads, containerized with Docker Compose.
+Full-stack e-commerce platform — React web storefront, admin dashboard, and a React Native mobile app sharing one Node.js/Express API, backed by PostgreSQL and Redis, with Cloudinary image uploads and Docker Compose deployment.
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
 </td></tr>
