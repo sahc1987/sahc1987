@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <a href="https://github.com/sahc1987">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Saul%20Hernandez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%206%2B%20Years%20of%20Experience&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Saul%20Hernandez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%207%2B%20Years%20of%20Experience&descAlignY=58&descSize=18" alt="header" />
 </a>
 
 <p align="center">
@@ -8,6 +8,7 @@
 <a href="https://github.com/sahc1987"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:sahc1987@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Miami,%20FL-FF5A5F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bilingual-ES%20%2F%20EN-4B8BBE?style=for-the-badge&logo=googletranslate&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -23,12 +24,13 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Full Stack Developer** with **6+ years** of professional experience
-- 🏭 Background in the **Lawyer Industries** and **Communications** sectors
-- 📍 Based in **Miami, FL**
-- 🌱 Currently expanding my cloud expertise with **AWS** & **Google Cloud**
+- 💼 **Full Stack Developer** with **7+ years** of experience spanning full-stack development and QA Lead responsibilities
+- 🏭 Background across legal tech (**Mitratech**), sports tech (**Omnisport**), and telecom (**Telus International**)
+- 🌎 Bilingual — **Spanish & English**
+- 📍 Based in **Miami, FL**, relocating to **El Salvador** — open to **LATAM-remote** roles
+- 🌱 Studying **AWS** (CLF-C02, DVA-C02) and exploring **Google Cloud**
 - 🤝 Open to collaborating on challenging and innovative projects
-- 🚀 **Actively looking for new opportunities**
+- 🚀 **Actively looking for new opportunities** — QA Lead & full-stack roles
 
 </td></tr>
 </table>
@@ -92,38 +94,32 @@
 <table align="center">
 <tr><td>
 
-#### 🏊 <a href="https://github.com/sahc1987/CompletePoolApp">CompletePoolApp</a>
-Next.js business management platform for a pool service company — job scheduling, worker task tracking, inventory, client billing, and estimates, with role-based access via NextAuth.
+#### 🏊 <a href="https://github.com/sahc1987/CompletePoolApp">CompletePoolApp</a> — <a href="https://complete-pool-app.vercel.app">live demo</a>
+Full-stack business management PWA for a pool service company — job scheduling with FullCalendar, worker task tracking with an async approval workflow, inventory, client billing, in-person signature capture for estimates, and three-role RBAC (Owner/Admin/Worker) over a 13-model Prisma schema.
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-#### 🏥 <a href="https://github.com/sahc1987/Hospital-App">Hospital-App</a>
-Full-stack hospital management system (Spring Boot + React/TypeScript) covering patients, appointments, admissions, pharmacy, lab, billing, and payroll, with JWT auth and a Dockerized stack.
+#### 🛒 <a href="https://github.com/sahc1987/Ecommerce">Ecommerce</a>
+Full-stack e-commerce platform with a security-focused implementation — React web storefront, admin dashboard, and a React Native mobile app sharing one Node.js/Express API, backed by PostgreSQL and Redis, with Cloudinary image uploads and Docker Compose deployment.
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
 #### 🧠 <a href="https://github.com/sahc1987/Quiz">QuizApp</a>
-Full-stack quiz platform (React/Redux Toolkit + Node/Express/PostgreSQL) with an admin question builder, per-user quiz assignment, timed/auto-submitting quizzes, and scored history.
+Full-stack quiz platform with an admin question builder, per-user quiz assignment, timed/auto-submitting quizzes, and scored history.
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-</p>
-
-#### 🛒 <a href="https://github.com/sahc1987/Ecommerce">Ecommerce</a>
-Full-stack e-commerce platform — React web storefront, admin dashboard, and a React Native mobile app sharing one Node.js/Express API, backed by PostgreSQL and Redis, with Cloudinary image uploads and Docker Compose deployment.
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
 </td></tr>
