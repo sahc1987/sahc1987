@@ -55,6 +55,17 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+</p>
+
+<p align="center"><b>Mobile</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Navigation-6B52AE?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 
 <p align="center"><b>Backend</b></p>
@@ -64,6 +75,11 @@
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSF-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 </p>
 
 <p align="center"><b>Databases</b></p>
@@ -74,6 +90,13 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white"/>
+</p>
+
+<p align="center"><b>Testing</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
 </p>
 
 <p align="center"><b>DevOps & Tools</b></p>
@@ -103,6 +126,18 @@ Full-stack business management PWA for a pool service company — job scheduling
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
+#### 🏥 <a href="https://github.com/sahc1987/Hospital-App">Hospital-App</a>
+Hospital management system covering patients, doctors and departments, appointments, admissions and rooms, pharmacy stock, lab orders, billing with insurance claims, and payroll. Spring Boot 3.4 (Java 21) REST API secured with Spring Security + JWT, PostgreSQL with Flyway migrations, Redis caching, and a React + TypeScript admin dashboard, all started with one `docker compose up`.
+<p>
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
 #### 🛒 <a href="https://github.com/sahc1987/Ecommerce">Ecommerce</a>
 Full-stack e-commerce platform with a security-focused implementation — React web storefront, admin dashboard, and a React Native mobile app sharing one Node.js/Express API, backed by PostgreSQL and Redis, with Cloudinary image uploads and Docker Compose deployment.
 <p>
@@ -111,6 +146,8 @@ Full-stack e-commerce platform with a security-focused implementation — React 
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 #### 🧠 <a href="https://github.com/sahc1987/Quiz">QuizApp</a>
@@ -119,11 +156,29 @@ Full-stack quiz platform with an admin question builder, per-user quiz assignmen
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
 </td></tr>
 </table>
+
+<br/>
+
+<!-- ===== REPO TECH MATRIX ===== -->
+<h2 align="center">📦 Technologies by Repository</h2>
+
+<div align="center">
+
+| Repository | Frontend | Backend | Data | Infra & Testing |
+|---|---|---|---|---|
+| [CompletePoolApp](https://github.com/sahc1987/CompletePoolApp) | Next.js, React, TypeScript, Tailwind, FullCalendar, React-PDF | Next.js API routes, NextAuth, Zod | PostgreSQL, Prisma | Vercel, Jest, Testing Library |
+| [Hospital-App](https://github.com/sahc1987/Hospital-App) | React, TypeScript, Vite, TanStack Query, Zustand, React Hook Form, Zod, Tailwind | Java 21, Spring Boot 3.4, Spring Security, JWT, JPA, MapStruct | PostgreSQL, Flyway, Redis | Docker Compose, Actuator |
+| [Ecommerce](https://github.com/sahc1987/Ecommerce) | React, TypeScript, Vite, Redux Toolkit, Tailwind · React Native mobile app | Node.js, Express, JWT, Helmet, rate limiting, Stripe, Cloudinary | PostgreSQL, Redis | Docker Compose |
+| [Quiz](https://github.com/sahc1987/Quiz) | React, TypeScript, Vite, Redux Toolkit, Tailwind | Node.js, Express, JWT | PostgreSQL | Docker Compose |
+
+</div>
 
 <br/>
 
