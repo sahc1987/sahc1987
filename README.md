@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sahc1987&label=Profile%20Views&color=0077B5&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=sahc1987&label=Profile%20Views&color=0077B5&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/badge/Open%20to%20Work-43853D?style=flat&logo=checkmarx&logoColor=white" alt="open to work" />
 </p>
 
