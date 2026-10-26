@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <a href="https://github.com/sahc1987">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Saul%20Hernandez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%26%20QA%20Lead%20%7C%207%2B%20Years&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C9A7&height=200&section=header&text=Saul%20Hernandez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20QA%20Lead%20%7C%207%2B%20Years&descAlignY=58&descSize=18" alt="header" />
 </a>
 
 <p align="center">
