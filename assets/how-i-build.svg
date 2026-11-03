@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="252" viewBox="0 0 840 252" role="img" aria-label="How I build: thin routes and one service layer; shared Zod contracts; transactions with row locks; tests without a real database; clean branches and Conventional Commits; AI-assisted, human-reviewed">
+  <style>
+    .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .h{font-size:15px;font-weight:700;fill:#E6EDF3}
+    .b{font-size:12.5px;fill:#9FB0C3}
+    .i{font-size:12px;font-weight:700}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F1B2D"/></linearGradient>
+  </defs>
+  <g class="s">
+    <!-- row 1 -->
+    <g transform="translate(0 0)">
+      <rect x="0.5" y="0.5" width="272" height="118" rx="14" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <rect x="20" y="20" width="34" height="24" rx="6" fill="#2F81F7" opacity="0.18"/><text x="37" y="36" text-anchor="middle" class="m i" fill="#58A6FF">{ }</text>
+      <text x="20" y="72" class="h">One service layer</text>
+      <text x="20" y="94" class="b">Business logic in one place.</text>
+      <text x="20" y="110" class="b">Routes are thin adapters.</text>
+    </g>
+    <g transform="translate(284 0)">
+      <rect x="0.5" y="0.5" width="272" height="118" rx="14" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <rect x="20" y="20" width="34" height="24" rx="6" fill="#00C9A7" opacity="0.18"/><text x="37" y="36" text-anchor="middle" class="m i" fill="#00C9A7">z.</text>
+      <text x="20" y="72" class="h">Shared contracts</text>
+      <text x="20" y="94" class="b">Validate every input with Zod,</text>
+      <text x="20" y="110" class="b">same schema on web and mobile.</text>
+    </g>
+    <g transform="translate(568 0)">
+      <rect x="0.5" y="0.5" width="271" height="118" rx="14" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <rect x="20" y="20" width="34" height="24" rx="6" fill="#A371F7" opacity="0.18"/><text x="37" y="36" text-anchor="middle" class="m i" fill="#B392F0">TX</text>
+      <text x="20" y="72" class="h">Protect the data</text>
+      <text x="20" y="94" class="b">Transactions with row locks,</text>
+      <text x="20" y="110" class="b">versioned migrations, indexes.</text>
+    </g>
+    <!-- row 2 -->
+    <g transform="translate(0 132)">
+      <rect x="0.5" y="0.5" width="272" height="118" rx="14" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <rect x="20" y="20" width="34" height="24" rx="6" fill="#3FB950" opacity="0.18"/><text x="37" y="36" text-anchor="middle" class="m i" fill="#3FB950">✓</text>
+      <text x="20" y="72" class="h">Test where it matters</text>
+      <text x="20" y="94" class="b">Unit tests without a real DB,</text>
+      <text x="20" y="110" class="b">integration on a test DB.</text>
+    </g>
+    <g transform="translate(284 132)">
+      <rect x="0.5" y="0.5" width="272" height="118" rx="14" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <rect x="20" y="20" width="34" height="24" rx="6" fill="#F0883E" opacity="0.18"/><text x="37" y="36" text-anchor="middle" class="m i" fill="#F0883E">git</text>
+      <text x="20" y="72" class="h">Ship clean</text>
+      <text x="20" y="94" class="b">Branch per feature, Conventional</text>
+      <text x="20" y="110" class="b">Commits, tsc + lint clean.</text>
+    </g>
+    <g transform="translate(568 132)">
+      <rect x="0.5" y="0.5" width="271" height="118" rx="14" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <rect x="20" y="20" width="34" height="24" rx="6" fill="#DB61A2" opacity="0.18"/><text x="37" y="36" text-anchor="middle" class="m i" fill="#F778BA">AI</text>
+      <text x="20" y="72" class="h">AI-assisted, human-reviewed</text>
+      <text x="20" y="94" class="b">Claude Code + Codex daily.</text>
+      <text x="20" y="110" class="b">Nothing ships I haven't read.</text>
+    </g>
+  </g>
+</svg>
